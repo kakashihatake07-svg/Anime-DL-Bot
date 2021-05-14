@@ -38,4 +38,4 @@ $ python3 bot.py
 ```
 ###
 #### Star and Fork the Repo if you like it 💖💖
-##Copyrights © 2021 BaraniARR
+## Copyrights © 2021 BaraniARR
