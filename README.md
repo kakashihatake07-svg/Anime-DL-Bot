@@ -24,14 +24,13 @@ An advanced telegram bot to get anime download links.
 ##### 1. Get your api_id and api_hash from [Telegram](telegram.org).
 ##### 2. Get your telegram bot token from [@botfather](https://t.me/botfather)
 ##### 3. Place the credentials in config.py
-##### 4. Run the bot by the following command.
-##### 5. Install the requirements using pip.
+##### 4. Install the requirements using pip.
 
 ```
 $ pip3 install -r requirements.txt
 ```
 ###
-##### 6. Run your bot by the following command
+##### 5. Run your bot by the following command
 
 ```
 $ python3 bot.py
