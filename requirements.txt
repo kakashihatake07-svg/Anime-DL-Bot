@@ -1,0 +1,7 @@
+pyrogram
+TgCrypto
+beautifulsoup4
+requests
+requests_html
+redis
+
