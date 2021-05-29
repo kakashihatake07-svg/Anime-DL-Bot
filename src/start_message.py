@@ -16,7 +16,8 @@ def start_message(client, message):
     pic_url = "https://drive.google.com/file/d/1TzmuSj05qF6Sm5Z_CSm3AGUCBx4Oe0F0/view?usp=sharing"
     message.reply_photo(pic_url, caption=f"""**Hi {message.chat.first_name}**,
 
-Welcome to Anime DL Bot, Here you can Download all Anime for FREE 😁!!!
+Welcome to Anime DL Bot, Here you can Download all Anime for FREE 😁 ,For TG Anime Join @Anime_Collectors 
+!!!
 
 __Please read all the instructions about the bot before surfing on...__
 
