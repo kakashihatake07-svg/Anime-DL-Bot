@@ -27,6 +27,6 @@ __👉For streaming in PC, use VLC media player network stream.__
 
 __👉For downloads, just open the links in a browser.__
 
-**That's it, You are all caught up, just start and enjoy your favourite otaku anime😁😆**
+**That's it, You are all caught up, just start and enjoy your favourite  anime😁😆**
 
 **Type /search to Search for an Anime...**""", parse_mode="markdown", reply_markup=reply_markup)
